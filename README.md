@@ -37,10 +37,15 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 
 ## Tools/LLMs for Image Generation:
 ●	DALL·E (by OpenAI): A text-to-image generation tool capable of creating detailed images from textual prompts.
+
 ○	Website: DALL·E
+
 ●	Stable Diffusion: An open-source model for generating images from text prompts, known for its flexibility and customizable outputs.
+
 ○	Website: Stable Diffusion
+
 ●	MidJourney: A popular AI tool for generating visually striking and creative images based on text descriptions.
+
 ○	Website: MidJourney
 
 # Instructions:
